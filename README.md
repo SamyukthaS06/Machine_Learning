@@ -9,4 +9,4 @@ This repository contains a curated collection of machine learning implementation
 
 🚀 Deployment-ready code for real-world problem solving and academic exploration
 
-All projects are built with Python and aim to balance clarity, modularity, and reproducibility.
+
