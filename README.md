@@ -5,7 +5,7 @@ This repository contains a curated collection of machine learning implementation
 
 🧠 Model development with algorithms like Random Forest, SVM, KNN, and Logistic Regression
 
-📈 Performance evaluation using metrics like accuracy, precision, recall, F1-score, ROC-AUC
+📈 Performance evaluation using metrics like accuracy, precision, recall, F1-score
 
 🚀 Deployment-ready code for real-world problem solving and academic exploration
 
